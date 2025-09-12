@@ -21,6 +21,6 @@ Desenvolvedor Web Javascript | React.js
 ### 📊 Estatísticas
 
  <div>
-  <img align="left" alt="GitHub Stats" height="178em" src="https://github-readme-stats.vercel.app/api?username=ostevedev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
- <img align="left" alt="GitHub Stats" height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ostevedev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img align="left" alt="GitHub Stats" height="170em" src="https://github-readme-stats.vercel.app/api?username=ostevedev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+ <img align="left" alt="GitHub Stats" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ostevedev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
  </div>
