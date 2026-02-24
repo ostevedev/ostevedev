@@ -22,14 +22,7 @@ Desenvolvedor Web Javascript | React.js
 
 ### 📊 Estatísticas
 
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  </picture>
-
  <div>
-  <img align="left" alt="GitHub Stats" height="170em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" />
+  <img align="left" alt="GitHub Stats" height="170em" src="https://github-readme-stats.vercel.app/api?username=ostevedev&show_icons=true&theme=tokyonight" />
   <img align="left" alt="GitHub Stats" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ostevedev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=20" />
  </div>
