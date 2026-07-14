@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou Steven Luiz
 
-Desenvolvedor Web Javascript | React.js
+Desenvolvedor Java | React
 <br/>
 
 <div align="left"> 
